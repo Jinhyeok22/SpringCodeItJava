@@ -1,4 +1,4 @@
-package org.example.Head01_JavaProgrammingStart.example9;
+package org.example.Head01_JavaProgrammingStart.example09;
 
 public class OutOfBounds {
     public static void main(String[] args) {

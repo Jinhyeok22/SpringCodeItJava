@@ -1,4 +1,4 @@
-package org.example.Head01_JavaProgrammingStart.example5;
+package org.example.Head01_JavaProgrammingStart.example05;
 
 public class DoWhileExample {
     public static void main(String[] args) {

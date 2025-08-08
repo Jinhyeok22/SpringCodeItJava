@@ -1,4 +1,4 @@
-package org.example.Head01_JavaProgrammingStart.example2;
+package org.example.Head01_JavaProgrammingStart.example02;
 
 public class TernaryExample {
     public static void main(String[] args) {

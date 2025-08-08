@@ -1,4 +1,4 @@
-package org.example.Head01_JavaProgrammingStart.example6;
+package org.example.Head01_JavaProgrammingStart.example06;
 
 public class BreakExample {
     public static void main(String[] args) {
