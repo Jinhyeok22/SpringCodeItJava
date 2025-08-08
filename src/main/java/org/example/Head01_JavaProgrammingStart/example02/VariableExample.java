@@ -2,7 +2,7 @@ package org.example.Head01_JavaProgrammingStart.example02;
 
 public class VariableExample {
     public static void main(String[] args) {
-        int age = 30;
+        int age = 27;
         double temperature = 36.6;
         boolean isOpen = false;
 

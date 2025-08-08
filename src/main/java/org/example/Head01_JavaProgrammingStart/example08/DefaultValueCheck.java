@@ -1,7 +1,6 @@
 package org.example.Head01_JavaProgrammingStart.example08;
 
-public class DefaultValueCheck {
-}
+
 public class DefaultValueCheck {
     public static void main(String[] args) {
         boolean[] flags = new boolean[2];
