@@ -1,4 +1,4 @@
-package org.example.Head01_JavaProgrammingStart.example4;
+package org.example.Head01_JavaProgrammingStart.example04;
 
 public class ImprovedForLoop {
     public static void main(String[] args) {

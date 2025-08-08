@@ -1,4 +1,4 @@
-package org.example.Head01_JavaProgrammingStart.example1;
+package org.example.Head01_JavaProgrammingStart.example01;
 
 public class HelloWorld {
     public static void main(String[] args) {

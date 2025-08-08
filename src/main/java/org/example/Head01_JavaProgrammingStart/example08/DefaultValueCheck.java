@@ -1,4 +1,4 @@
-package org.example.Head01_JavaProgrammingStart.example8;
+package org.example.Head01_JavaProgrammingStart.example08;
 
 public class DefaultValueCheck {
 }
