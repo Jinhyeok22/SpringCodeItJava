@@ -1,4 +1,4 @@
-package org.example.Head02_OOPprogramming;
+package org.example.Head02_OOPprogramming.example01;
 
 class Student {
     String name;
