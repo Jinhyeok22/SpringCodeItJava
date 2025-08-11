@@ -1,5 +1,8 @@
 package org.example.Head01_JavaProgrammingStart.example08;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 98ca9e1 (Test)
 
 public class DefaultValueCheck {
     public static void main(String[] args) {
