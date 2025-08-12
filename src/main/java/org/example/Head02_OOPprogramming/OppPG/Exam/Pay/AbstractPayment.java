@@ -1,4 +1,4 @@
-package org.example.Head02_OOPprogramming.Pay;
+package org.example.Head02_OOPprogramming.OppPG.Exam.Pay;
 
     public abstract class AbstractPayment {
     abstract void pay(double amount);
