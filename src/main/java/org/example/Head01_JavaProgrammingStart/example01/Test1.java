@@ -1,9 +1,5 @@
 package org.example.Head01_JavaProgrammingStart.example01;
-<<<<<<< HEAD
-// 변수 선언 및 출력
-=======
 
->>>>>>> 98ca9e1 (Test)
 public class Test1 {
     public static void main(String[] args) {
 
@@ -13,7 +9,7 @@ public class Test1 {
         System.out.println("성적: " + result);
     }
 }
-<<<<<<< HEAD
+
 
 /*  연산자 활용
     public class VariableExample {
@@ -39,13 +35,7 @@ public class OperatorExample {
         System.out.println("몫: " + (x / y));
         System.out.println("나머지: " + (x % y));
     }
-<<<<<<< HEAD
+
 }      */
 
 
-=======
-}
- */
-=======
->>>>>>> 98ca9e1 (Test)
->>>>>>> af36e1ed16b5af71b0f967a36cdbda8bf669b135
